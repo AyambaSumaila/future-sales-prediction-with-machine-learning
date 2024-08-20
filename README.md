@@ -1,5 +1,5 @@
-📊 Project Title: Sales per Unit vs. Newspaper, TV, and Radio
-📌 Project Overview
+# 📊 Project Title: Sales per Unit vs. Newspaper, TV, and Radio
+# 📌 Project Overview
 
 This project analyzes the impact of advertising expenditure on sales per unit across three different mediums: Newspaper, TV, and Radio. The goal is to determine which channels most effectively drive sales and provide strategic recommendations for optimizing the marketing budget.
 🔑 Key Findings
